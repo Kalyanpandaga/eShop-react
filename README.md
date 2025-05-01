@@ -4,7 +4,7 @@ A responsive e-commerce frontend built with **React.js**, **React Router**, and 
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://your-live-demo-link.vercel.app)
+👉 [View Live Demo](https://e-shoping-react.vercel.app/)
 
 ---
 
